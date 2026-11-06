@@ -16,8 +16,18 @@
     "address": "Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo, Jawa Tengah 57161, Indonesia",
     "location_note": "Barat Underpass Makamhaji; area Solo Raya / Sukoharjo",
     "campuses": [
-      {"name": "Kampus 1", "address": "Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo, Jawa Tengah 57161"},
-      {"name": "Kampus 2", "address": "Jl. Hamzah Raya, Dusun III, Gumpang, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah", "aliases": ["Jl. Hamzah Raya Kudusan Gumpang Kartasura", "BLKK Yayasan Amaliyah Ilmi Surakarta"]}
+      {
+        "name": "Kampus 1",
+        "address": "Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo, Jawa Tengah 57161"
+      },
+      {
+        "name": "Kampus 2",
+        "address": "Jl. Hamzah Raya, Dusun III, Gumpang, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah",
+        "aliases": [
+          "Jl. Hamzah Raya Kudusan Gumpang Kartasura",
+          "BLKK Yayasan Amaliyah Ilmi Surakarta"
+        ]
+      }
     ],
     "postal_code": "57161",
     "phone": "(0271) 726156",
@@ -26,7 +36,6 @@
   "contacts": {
     "general_whatsapp": "+62 857-9920-5711",
     "pmb_whatsapp_admin": "0889-8337-3916",
-    "pmb_whatsapp_alt": "+6285799205711",
     "email_general": "itbaas.indonesia@gmail.com",
     "email_info": "info@itbaas.ac.id",
     "email_pmb": "pmb@itbaas.ac.id",
@@ -34,7 +43,8 @@
       "mon_fri": "08:00-21:00 WIB",
       "sat": "08:00-18:00 WIB",
       "sun": "Tutup"
-    }
+    },
+    "campus_whatsapp": "+6285799205711"
   },
   "social": {
     "facebook": "itbaas.indonesia",
@@ -44,11 +54,26 @@
     "linkedin": "not_verified"
   },
   "history": [
-    {"year": 1984, "event": "Akademi Akuntansi dan Perpajakan Bentara Indonesia didirikan Yayasan Bentara Indonesia Surakarta; Kopertis VI No. 1092/K/18/Kop.VI/1984 (4 Juni 1984)."},
-    {"year": 2007, "event": "Berubah menjadi Akademi Akuntansi Surakarta (AAS), SK Mendikbud No. 68/D/O/2007 (24 Mei 2007); pengelolaan pindah ke Yayasan Amaliyah Ilmi Surakarta."},
-    {"year": 2014, "event": "Berubah menjadi STIE AAS, SK Mendikbud No. 04/E/O/2014 (22 April 2014)."},
-    {"year": 2020, "event": "Berubah menjadi Institut Teknologi Bisnis AAS Indonesia, SK Mendikbud No. 192/M/2020 (31 Januari 2020)."},
-    {"year": 2024, "event": "Peluncuran/penambahan prodi: S1 Manajemen, S1 Hukum, D3 Kebidanan; penggabungan dengan Akademi Kebidanan Giri Satria Husada Wonogiri (SK LLDIKTI VI, 2024)."}
+    {
+      "year": 1984,
+      "event": "Akademi Akuntansi dan Perpajakan Bentara Indonesia didirikan Yayasan Bentara Indonesia Surakarta; Kopertis VI No. 1092/K/18/Kop.VI/1984 (4 Juni 1984)."
+    },
+    {
+      "year": 2007,
+      "event": "Berubah menjadi Akademi Akuntansi Surakarta (AAS), SK Mendikbud No. 68/D/O/2007 (24 Mei 2007); pengelolaan pindah ke Yayasan Amaliyah Ilmi Surakarta."
+    },
+    {
+      "year": 2014,
+      "event": "Berubah menjadi STIE AAS, SK Mendikbud No. 04/E/O/2014 (22 April 2014)."
+    },
+    {
+      "year": 2020,
+      "event": "Berubah menjadi Institut Teknologi Bisnis AAS Indonesia, SK Mendikbud No. 192/M/2020 (31 Januari 2020)."
+    },
+    {
+      "year": 2024,
+      "event": "Peluncuran/penambahan prodi: S1 Manajemen, S1 Hukum, D3 Kebidanan; penggabungan dengan Akademi Kebidanan Giri Satria Husada Wonogiri (SK LLDIKTI VI, 2024)."
+    }
   ],
   "vision": "Institut Teknologi Bisnis AAS Indonesia menjadi perguruan tinggi penyelenggara pendidikan akademik, vokasi, dan profesi dalam bidang teknologi dan bisnis, unggul di tingkat nasional pada tahun 2034.",
   "mission": [
@@ -72,10 +97,35 @@
     "institutional_status": 2020
   },
   "faculties": [
-    {"name": "Fakultas Ekonomi Bisnis", "programs": ["S1 Ekonomi Syariah", "S1 Manajemen", "S2 Manajemen", "S1 Akuntansi", "D4 Kebijakan dan Manajemen Pajak", "D3 Akuntansi"]},
-    {"name": "Fakultas Hukum", "programs": ["S1 Hukum"]},
-    {"name": "Fakultas Kesehatan", "programs": ["D3 Kebidanan"]},
-    {"name": "Fakultas Teknologi", "programs": ["S1 Informatika"]}
+    {
+      "name": "Fakultas Ekonomi Bisnis",
+      "programs": [
+        "S1 Ekonomi Syariah",
+        "S1 Manajemen",
+        "S2 Manajemen",
+        "S1 Akuntansi",
+        "D4 Kebijakan dan Manajemen Pajak",
+        "D3 Akuntansi"
+      ]
+    },
+    {
+      "name": "Fakultas Hukum",
+      "programs": [
+        "S1 Hukum"
+      ]
+    },
+    {
+      "name": "Fakultas Kesehatan",
+      "programs": [
+        "D3 Kebidanan"
+      ]
+    },
+    {
+      "name": "Fakultas Teknologi",
+      "programs": [
+        "S1 Informatika"
+      ]
+    }
   ],
   "accreditation_certificates_listed": [
     "Institusi 2023-2028",

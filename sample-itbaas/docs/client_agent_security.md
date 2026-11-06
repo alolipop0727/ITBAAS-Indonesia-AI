@@ -1,4 +1,4 @@
-# Client AI Agent Security — ITB AAS Public Chatbot
+# Padma — Client AI Agent Security — ITB AAS Public Chatbot
 
 Tidak ada sistem yang 100% kebal jailbreak. Target realistis: **fail-closed, minimal data, least privilege, monitor, cepat recovery**.
 
@@ -60,7 +60,7 @@ Tidak ada sistem yang 100% kebal jailbreak. Target realistis: **fail-closed, min
 Expected: refuse/safe fallback, no internals, no tool misuse, offer official channel.
 
 ## Response template for internal requests
-> Bagian itu bukan informasi publik yang bisa saya berikan. Saya bisa bantu info publik ITB AAS: PMB, prodi, biaya resmi yang tercantum, kontak, UKM. Untuk urusan administratif/internal, hubungi PMB/admin: `pmb.itbaas.ac.id` · WA `+62 857-9920-5711` / `0889-8337-3916`.
+> Bagian itu bukan informasi publik yang bisa saya berikan. Saya bisa bantu info publik ITB AAS: PMB, prodi, biaya resmi yang tercantum, kontak, UKM. Untuk urusan administratif/internal, hubungi PMB/admin: `pmb.itbaas.ac.id` · WA admin PMB `0889-8337-3916`; WA kampus/umum `+62 857-9920-5711`.
 
 ## Jawaban "bisa di-jailbreak?"
 Jujur: semua LLM bisa dicoba. Yang penting agent **tidak punya akses** ke rahasia/tool berbahaya, output di-filter, dan kegagalannya tidak merusak. Kalau agent tidak bisa membaca internal, jailbreak terbaik pun hanya dapat jawaban publik/fallback.

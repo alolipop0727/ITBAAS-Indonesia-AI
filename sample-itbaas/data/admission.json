@@ -10,10 +10,22 @@
     "offline_service": "Senin-Jumat 08:00-21:00; Sabtu 08:00-18:00"
   },
   "waves": [
-    {"name": "Gelombang Dini", "period": "Desember s.d Januari"},
-    {"name": "Gelombang 1", "period": "Februari s.d April"},
-    {"name": "Gelombang 2", "period": "Mei s.d Juni"},
-    {"name": "Gelombang 3", "period": "Juli s.d Agustus"}
+    {
+      "name": "Gelombang Dini",
+      "period": "Desember s.d Januari"
+    },
+    {
+      "name": "Gelombang 1",
+      "period": "Februari s.d April"
+    },
+    {
+      "name": "Gelombang 2",
+      "period": "Mei s.d Juni"
+    },
+    {
+      "name": "Gelombang 3",
+      "period": "Juli s.d Agustus"
+    }
   ],
   "paths": [
     {
@@ -90,9 +102,9 @@
     "pmb_site": "https://pmb.itbaas.ac.id",
     "pmb_email": "pmb@itbaas.ac.id",
     "pmb_whatsapp_admin": "0889-8337-3916",
-    "pmb_whatsapp_alt": "+6285799205711",
     "general_email": "itbaas.indonesia@gmail.com",
-    "phone": "(0271) 726156"
+    "phone": "(0271) 726156",
+    "campus_whatsapp": "+6285799205711"
   },
   "notes": [
     "Yang sudah daftar online tetap wajib mengumpulkan berkas offline.",

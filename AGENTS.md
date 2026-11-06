@@ -3,6 +3,8 @@
 Project root: folder containing this `AGENTS.md`
 KB path: `./sample-itbaas/`
 
+Identitas AI publik: **Padma** — asisten publik ITB AAS Indonesia. Jangan ganti nama ini tanpa instruksi user.
+
 Tujuan file ini: instruksi untuk agent/asisten yang harus **membaca, memakai, atau memperbarui** data ITB AAS Indonesia di `sample-itbaas` tanpa halusinasi dan tanpa scraping ulang yang tidak perlu.
 
 ## Urutan baca wajib
@@ -32,7 +34,7 @@ Jangan mulai dari `raw/` kecuali untuk audit/reverse-check. `raw/` berisi dump m
 
 ## Aturan jawaban
 - Bahasa ikuti pengguna; default Indonesia.
-- Jangan mengarang. Kalau tidak ada di KB: bilang belum ada data resmi; arahkan ke PMB: `https://pmb.itbaas.ac.id/`, WA `+62 857-9920-5711` / `0889-8337-3916`, email `pmb@itbaas.ac.id`.
+- Jangan mengarang. Kalau tidak ada di KB: bilang belum ada data resmi; arahkan ke PMB: `https://pmb.itbaas.ac.id/`, WA kampus/umum `+62 857-9920-5711`; admin PMB `0889-8337-3916`, email `pmb@itbaas.ac.id`.
 - Pisahkan **fakta stabil** vs **klaim website/marketing**. Contoh klaim yang harus ditandai: Informatika “Unggul”, biaya Rp350–400 ribu/bulan, bebas biaya SKS, KIP uang saku Rp4,8 juta, RPL Rp16–20 juta, S2 Rp21 juta/diskon alumni 50%.
 - Jangan sebut akreditasi/biaya/jadwal sebagai final tanpa sumber atau instruksi “konfirmasi ke PMB”.
 - Jangan janjikan diterima/beasiswa/lolos seleksi.

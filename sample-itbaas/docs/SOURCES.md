@@ -44,7 +44,7 @@ Lihat `data/downloads.csv`. Berisi logo, pedoman TA/KKN, aplikasi SPSS/MYOB/Mend
 
 ## Fakta stabil (silang beberapa sumber)
 - Lokasi: Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo 57161
-- Telepon: (0271) 726156; WA: 0857-9920-5711 / 0889-8337-3916 (PMB)
+- Telepon: (0271) 726156; WA kampus/umum: 0857-9920-5711; WA admin PMB: 0889-8337-3916
 - Email: itbaas.indonesia@gmail.com; info@itbaas.ac.id; pmb@itbaas.ac.id
 - Pengelola: Yayasan Amaliyah Ilmi Surakarta
 - SK Institut: Mendikbud No. 192/M/2020 (31 Jan 2020)
@@ -52,4 +52,4 @@ Lihat `data/downloads.csv`. Berisi logo, pedoman TA/KKN, aplikasi SPSS/MYOB/Mend
 - Sejarah: 1984 Bentara → 2007 AAS → 2014 STIE AAS → 2020 Institut → 2024 prodi baru/penggabungan Akbid
 
 ## Kontak verifikasi
-Untuk data yang akan dipublish, minta konfirmasi tertulis/sertifikat ke: PMB `pmb@itbaas.ac.id`, WA `+62 857-9920-5711`, telp `(0271) 726156`.
+Untuk data yang akan dipublish, minta konfirmasi tertulis/sertifikat ke: PMB `pmb@itbaas.ac.id`, WA admin PMB `0889-8337-3916`, telp `(0271) 726156`.

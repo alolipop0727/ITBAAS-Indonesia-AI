@@ -7,7 +7,7 @@ DATA = ROOT / 'data'
 
 STOP = set('yang dan di ke dari untuk dengan pada adalah itu ini atau dan nya saya anda kami kita mau tolong dong gimana apa saja berapa'.split())
 BLOCK = ['system prompt','ignore previous','jailbreak','developer mode','.env','api key','password','token','raw/','internal','bocor','dump','credential','admin override','bypass']
-OFFICIAL = 'PMB: https://pmb.itbaas.ac.id/ | WA +62 857-9920-5711 / 0889-8337-3916 | email pmb@itbaas.ac.id | telp (0271) 726156'
+OFFICIAL = 'PMB: https://pmb.itbaas.ac.id/ | WA admin PMB 0889-8337-3916 | WA kampus/umum +62 857-9920-5711 | email pmb@itbaas.ac.id | telp (0271) 726156'
 
 def load_json(name):
     return json.loads((DATA / name).read_text(encoding='utf-8'))
