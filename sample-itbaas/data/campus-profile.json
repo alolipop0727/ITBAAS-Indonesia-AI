@@ -1,0 +1,128 @@
+{
+  "name": "Institut Teknologi Bisnis AAS Indonesia",
+  "short_name": "ITB AAS Indonesia",
+  "type": "Perguruan Tinggi Swasta (PTS)",
+  "operator": "Yayasan Amaliyah Ilmi Surakarta",
+  "original_foundation": "Yayasan Bentara Indonesia Surakarta (1984)",
+  "official_websites": [
+    "https://itbaas.id/",
+    "https://itbaas.ac.id/",
+    "https://pmb.itbaas.ac.id/"
+  ],
+  "identity": {
+    "legal_status_sk": "SK Mendikbud No. 192/M/2020 (31 Januari 2020), perubahan dari STIE AAS",
+    "ban_pt_sk_ppj": "700/SK/BAN-PT/Ak.Ppj/PT/X/2023",
+    "ban_pt_sk_ppj_date": "2023-10-03",
+    "address": "Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo, Jawa Tengah 57161, Indonesia",
+    "location_note": "Barat Underpass Makamhaji; area Solo Raya / Sukoharjo",
+    "campuses": [
+      {"name": "Kampus 1", "address": "Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo, Jawa Tengah 57161"},
+      {"name": "Kampus 2", "address": "Jl. Hamzah Raya, Dusun III, Gumpang, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah", "aliases": ["Jl. Hamzah Raya Kudusan Gumpang Kartasura", "BLKK Yayasan Amaliyah Ilmi Surakarta"]}
+    ],
+    "postal_code": "57161",
+    "phone": "(0271) 726156",
+    "maps_query": "ITB AAS Indonesia Jl Slamet Riyadi 361 Kartasura"
+  },
+  "contacts": {
+    "general_whatsapp": "+62 857-9920-5711",
+    "pmb_whatsapp_admin": "0889-8337-3916",
+    "pmb_whatsapp_alt": "+6285799205711",
+    "email_general": "itbaas.indonesia@gmail.com",
+    "email_info": "info@itbaas.ac.id",
+    "email_pmb": "pmb@itbaas.ac.id",
+    "office_hours": {
+      "mon_fri": "08:00-21:00 WIB",
+      "sat": "08:00-18:00 WIB",
+      "sun": "Tutup"
+    }
+  },
+  "social": {
+    "facebook": "itbaas.indonesia",
+    "instagram": "@itbaas_indonesia",
+    "x_twitter": "@itbaas",
+    "youtube": "not_verified",
+    "linkedin": "not_verified"
+  },
+  "history": [
+    {"year": 1984, "event": "Akademi Akuntansi dan Perpajakan Bentara Indonesia didirikan Yayasan Bentara Indonesia Surakarta; Kopertis VI No. 1092/K/18/Kop.VI/1984 (4 Juni 1984)."},
+    {"year": 2007, "event": "Berubah menjadi Akademi Akuntansi Surakarta (AAS), SK Mendikbud No. 68/D/O/2007 (24 Mei 2007); pengelolaan pindah ke Yayasan Amaliyah Ilmi Surakarta."},
+    {"year": 2014, "event": "Berubah menjadi STIE AAS, SK Mendikbud No. 04/E/O/2014 (22 April 2014)."},
+    {"year": 2020, "event": "Berubah menjadi Institut Teknologi Bisnis AAS Indonesia, SK Mendikbud No. 192/M/2020 (31 Januari 2020)."},
+    {"year": 2024, "event": "Peluncuran/penambahan prodi: S1 Manajemen, S1 Hukum, D3 Kebidanan; penggabungan dengan Akademi Kebidanan Giri Satria Husada Wonogiri (SK LLDIKTI VI, 2024)."}
+  ],
+  "vision": "Institut Teknologi Bisnis AAS Indonesia menjadi perguruan tinggi penyelenggara pendidikan akademik, vokasi, dan profesi dalam bidang teknologi dan bisnis, unggul di tingkat nasional pada tahun 2034.",
+  "mission": [
+    "Menyelenggarakan pendidikan tinggi dengan tata kelola yang baik mengacu kepada Standar Nasional Pendidikan Tinggi dalam bidang akademik, vokasi, dan profesional.",
+    "Menyelenggarakan penelitian dengan meningkatkan kualitas secara internal maupun eksternal.",
+    "Menyelenggarakan Pengabdian Kepada Masyarakat untuk mencapai kemakmuran masyarakat.",
+    "Melakukan kerjasama tridarma perguruan tinggi saling menguntungkan dengan stakeholder di dalam dan luar negeri."
+  ],
+  "goals": [
+    "Menghasilkan lulusan bertakwa, berakhlak tinggi, berbudaya Indonesia, bersemangat ilmiah, berkemampuan akademik/profesional, dan sanggup berkinerja baik di kariernya.",
+    "Menghasilkan ilmu pengetahuan dan teknologi baru serta memutakhirkan pengetahuan.",
+    "Menyebarluaskan hasil penelitian untuk kegiatan produktif dan peningkatan mutu kehidupan masyarakat.",
+    "Melakukan kerjasama tridarma saling menguntungkan dengan stakeholder dalam dan luar negeri."
+  ],
+  "quick_facts": {
+    "active_study_programs_website_claim": 8,
+    "study_programs_including_s2": 9,
+    "doctoral_lecturers_claim": ">50%",
+    "institution_accreditation": "Baik (BAN-PT SK 700/SK/BAN-PT/Ak.Ppj/PT/X/2023, 3 Oct 2023); website marketing also says some prodi Baik Sekali/Unggul — verify per certificate",
+    "established_roots": 1984,
+    "institutional_status": 2020
+  },
+  "faculties": [
+    {"name": "Fakultas Ekonomi Bisnis", "programs": ["S1 Ekonomi Syariah", "S1 Manajemen", "S2 Manajemen", "S1 Akuntansi", "D4 Kebijakan dan Manajemen Pajak", "D3 Akuntansi"]},
+    {"name": "Fakultas Hukum", "programs": ["S1 Hukum"]},
+    {"name": "Fakultas Kesehatan", "programs": ["D3 Kebidanan"]},
+    {"name": "Fakultas Teknologi", "programs": ["S1 Informatika"]}
+  ],
+  "accreditation_certificates_listed": [
+    "Institusi 2023-2028",
+    "D3 Akuntansi 2023-2028",
+    "D3 Kebidanan 2023-2027",
+    "D4 Kebijakan & Manajemen Pajak 2024-2029",
+    "S1 Akuntansi 2024-2029",
+    "S1 Ekonomi Syariah 2024-2029",
+    "S1 Informatika 2022-2027 (also 2026-2029 listed on itbaas.ac.id unduh)",
+    "S1 Manajemen 2025-2030",
+    "S1 Hukum 2024"
+  ],
+  "international_cooperation_mentions": [
+    "Rajamangala University of Technology Krungthep (RMUTK), Thailand",
+    "Hatyai University, Thailand",
+    "Prince of Songkla University, Thailand",
+    "Lyceum of the Philippines University (LPU), Philippines",
+    "Imus Institute of Science and Technology (IIST), Philippines",
+    "Systems Plus College Foundation (SPCF), Philippines",
+    "Karabuk University, Turkey",
+    "Fatoni University, Thailand",
+    "Siam Technological College, Thailand",
+    "Thai Global Business Administration Technological College, Thailand",
+    "Mili Institute of Higher Education",
+    "Universitas Ciputra Surabaya",
+    "Universitas Stikubank (UNISBANK)",
+    "Universitas Semarang? (benchmarking/UNIMUS mentioned)",
+    "STIE PGRI Dewantara Jombang",
+    "Universitas Asiyah Surakarta (Informatika MoU)"
+  ],
+  "sources": [
+    "https://itbaas.id/about/",
+    "https://itbaas.ac.id/about/",
+    "https://itbaas.id/visi-misi/",
+    "https://itbaas.id/sejarah/",
+    "https://itbaas.id/profil/",
+    "https://itbaas.id/unduh/",
+    "https://itbaas.ac.id/unduh/",
+    "https://itbaas.id/asesmen-lapangan-program-studi-s1-akuntansi/",
+    "https://itbaas.id/jalan-sehat-dalam-rangka-tasyakuran-keberhasilan-penyatuan-kampus-itb-aas-indonesia-dengan-akademi-kebidanan-giri-satria-husada-wonogiri/",
+    "https://pmb.itbaas.ac.id/program-studi",
+    "https://id.wikipedia.org/wiki/Institut_Teknologi_Bisnis_AAS_Indonesia"
+  ],
+  "last_verified": "2026-11-06",
+  "notes": [
+    "itbaas.id and itbaas.ac.id are near-mirrors; itbaas.id carries more 2026 marketing/news posts.",
+    "Website marketing claims (e.g., Informatika Akreditasi Unggul, biaya Rp350-400 ribu/bulan, bebas biaya SKS) are promotional; verify with official certificates/BAN-PT/LAM-PT before publishing.",
+    "PDDIKTI page was not reachable at collection time; use official PDDIKTI link for legal verification."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "publish": {
+    "name": "Telah terbit",
+    "public": true,
+    "queryable": true,
+    "slug": "publish",
+    "date_floating": false,
+    "_links": {
+      "archives": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts"
+        }
+      ]
+    }
+  }
+}

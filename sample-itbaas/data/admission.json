@@ -1,0 +1,102 @@
+{
+  "as_of": "2026-11-06",
+  "academic_period": "2027 Ganjil",
+  "source": "https://pmb.itbaas.ac.id/jalur-seleksi",
+  "registration_fee_idr": 200000,
+  "selection": {
+    "format": "30 soal, sekitar ±30 menit",
+    "result": "±10 menit setelah tes",
+    "online_test": true,
+    "offline_service": "Senin-Jumat 08:00-21:00; Sabtu 08:00-18:00"
+  },
+  "waves": [
+    {"name": "Gelombang Dini", "period": "Desember s.d Januari"},
+    {"name": "Gelombang 1", "period": "Februari s.d April"},
+    {"name": "Gelombang 2", "period": "Mei s.d Juni"},
+    {"name": "Gelombang 3", "period": "Juli s.d Agustus"}
+  ],
+  "paths": [
+    {
+      "code": "KIP-K",
+      "name": "Pendaftaran KIP-Kuliah",
+      "period": "2026-11-02 to 2027-10-31",
+      "wave": "Gelombang KIP-K",
+      "fee": "GRATIS",
+      "detail_url": "https://pmb.itbaas.ac.id/jalur-pendaftaran/20271/4/3/1/119"
+    },
+    {
+      "code": "PDB",
+      "name": "Pendaftaran Reguler (Peserta Didik Baru)",
+      "period": "2026-11-02 to 2027-01-30",
+      "wave": "Gelombang Dini",
+      "fee": "BERBAYAR",
+      "detail_url": "https://pmb.itbaas.ac.id/jalur-pendaftaran/20271/6/1/1/84"
+    },
+    {
+      "code": "TRANSFER",
+      "name": "Pendaftaran Reguler (Pindahan/Transfer)",
+      "period": "2026-11-02 to 2027-01-31",
+      "wave": "Gelombang Dini",
+      "fee": "BERBAYAR",
+      "detail_url": "https://pmb.itbaas.ac.id/jalur-pendaftaran/20271/6/2/1/117"
+    },
+    {
+      "code": "RPL",
+      "name": "Pendaftaran RPL",
+      "period": "2026-11-02 to 2027-10-31",
+      "wave": "Gelombang RPL",
+      "fee": "BERBAYAR",
+      "detail_url": "https://pmb.itbaas.ac.id/jalur-pendaftaran/20271/7/4/1/118"
+    }
+  ],
+  "requirements": [
+    "Formulir pendaftaran (unduh dari PMB/kampus)",
+    "Pas foto latar biru: 3 lembar 3×4 dan 2 lembar 4×6",
+    "Fotocopy KTP",
+    "Fotocopy Kartu Keluarga (KK)",
+    "Scan/fotocopy ijazah terakhir legalisir (SKL jika ijazah belum keluar)",
+    "Transkrip nilai legalisir (untuk transfer/pindahan)",
+    "Surat keterangan pindah dari PT asal (untuk pindahan)"
+  ],
+  "file_color_by_program": {
+    "D3 Akuntansi": "Biru",
+    "D4 Kebijakan dan Manajemen Pajak": "Merah",
+    "S1 Akuntansi": "Kuning",
+    "S1 Ekonomi Syariah": "Hijau",
+    "S1 Manajemen": "Putih",
+    "S1 Informatika": "Abu-Abu",
+    "S1 Hukum": "Hitam",
+    "D3 Kebidanan": "Orange"
+  },
+  "online_steps": [
+    "Buka https://pmb.itbaas.ac.id",
+    "Isi formulir pendaftaran online",
+    "Bayar biaya pendaftaran Rp200.000",
+    "Konfirmasi/kirim bukti pembayaran ke admin WA",
+    "Upload berkas persyaratan",
+    "Tunggu verifikasi admin; jika valid, terima link Tes Seleksi online",
+    "Konfirmasi selesai tes ke admin; hasil tes bisa dilihat di laman pendaftaran",
+    "Jika lolos, daftar ulang maksimal 2 minggu setelah pengumuman dan kumpulkan berkas"
+  ],
+  "offline_steps": [
+    "Datang ke kampus Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo",
+    "Bawa berkas persyaratan dalam map snail plastik sesuai warna prodi",
+    "Serahkan di administrasi dan bayar biaya pendaftaran Rp200.000 (tunai/transfer)",
+    "Ikuti ujian seleksi 30 soal ±30 menit; hasil ±10 menit",
+    "Jika lulus, daftar ulang dan lengkapi berkas"
+  ],
+  "transfer_policy": "Untuk lulusan D1/D2/D3 atau mahasiswa berhenti dari PT lain dengan surat keterangan pindah (cross-check PDDIKTI). Ketua Prodi memvalidasi dan mengkonversi SKS terhadap kurikulum ITB AAS; calon tetap mengikuti tes potensi akademik dan bahasa Inggris.",
+  "contacts": {
+    "pmb_site": "https://pmb.itbaas.ac.id",
+    "pmb_email": "pmb@itbaas.ac.id",
+    "pmb_whatsapp_admin": "0889-8337-3916",
+    "pmb_whatsapp_alt": "+6285799205711",
+    "general_email": "itbaas.indonesia@gmail.com",
+    "phone": "(0271) 726156"
+  },
+  "notes": [
+    "Yang sudah daftar online tetap wajib mengumpulkan berkas offline.",
+    "Tanggal/biaya dapat berubah; agent must tell users to confirm via pmb.itbaas.ac.id or WA admin.",
+    "KIP-K period shown in PMB as 2026-11-02 to 2027-10-31 for 2027 Ganjil."
+  ]
+}

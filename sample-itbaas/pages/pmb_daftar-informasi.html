@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title translate="no">Informasi - Dapatkan Informasi Terbaru Mengenai Pendaftaran | siAkad Cloud ITB AAS Indonesia</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <meta name="description" content="Sistem Informasi Akademik Institut Teknologi Bisnis AAS Indonesia">
+    <meta name="keywords" content="Siakad, Forlap PDDIKTI, Feeder PDDIKTI, Sistem Informasi Akademik">
+    <meta name="author" content="siAkad Cloud ITB AAS Indonesia">
+
+    <meta name="og:title" content="Informasi - Dapatkan Informasi Terbaru Mengenai Pendaftaran | siAkad Cloud ITB AAS Indonesia">
+    <meta name="og:description" content="Sistem Informasi Akademik Institut Teknologi Bisnis AAS Indonesia">
+    <meta name="og:site_name" content="Sistem Informasi Akademik">
+    
+    <link href="https://assets.siakadcloud.com/spmbfront/assets/default/css/main.css?260421" rel="stylesheet" type="text/css">
+    <link href="https://assets.siakadcloud.com/spmbfront/assets/default/css/main_baru.css?260728" rel="stylesheet" type="text/css">
+    <link href="https://assets.siakadcloud.com/spmbfront/assets/default/css/header_new.css?210922" rel="stylesheet" type="text/css">
+    <!-- Typeahead -->
+    <link href="https://assets.siakadcloud.com/spmbfront/assets/default/css/typeahead-bootstrap/typeaheadjs.css" rel="stylesheet" type="text/css" />
+    <link href="https://assets.siakadcloud.com/spmbfront/assets/default/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://assets.siakadcloud.com/spmbfront/assets/default/css/select2/select2.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://assets.siakadcloud.com/spmbfront/assets/default/css/select2/select2-bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="img/png" href="https://assets.siakadcloud.com/uploads/itbaas/logoaplikasi/1033.jpg" sizes="16x16" />
+    <!-- material icon -->
+    <link href="https://fonts.googleapis.com/css2?family=Material+Icons+Round" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+                <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/html5shiv.min.js"></script>
+                <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/respond.min.js"></script>
+        <![endif]-->
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/jquery.min.js"></script>
+    <!-- jQuery UI 1.10.3 -->
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+    <!-- number -->
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/jquery.number.min.js" type="text/javascript"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/bootstrap.min.js"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/moment.js"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/bootstrap-datetimepicker.js"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/id.js"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/bootbox.min.js"></script>
+    <!-- Typeahead -->
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/typeahead.jquery.js" type="text/javascript"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/forhtml.js?260814"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/jquery.ajax.js"></script>
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/custom.js?260430"></script>
+    <!-- tambahan -->
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default/js/select2/select2.full.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var g_abs_url = "/";
+        var g_page = "/daftar-informasi";
+
+                    var g_extpage = g_page;
+            </script>
+
+    <style type="text/css">
+    
+    .mainpos-footer .bantuan{
+        background-color: #1d8fe1;
+    }
+
+    .mainpos-footer .footer-link{
+        background-color: ;
+    }
+
+    .mainpos-header,
+    .overlay,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .datapendaftar [type="checkbox"].filled-in:checked+label:after,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .bukti-daftar .invoice-table table .top,
+    .mainpos-header .navbar .navbar-collapse .dropdown-menu,
+    .bootstrap-datetimepicker-widget table td.active,
+    .bootstrap-datetimepicker-widget table td.active:hover,
+    .input-group-addon,
+    .f1-step.activated .f1-step-icon,
+    .f1-progress-line,
+    .table>thead>tr>th,
+    .btn-primary:hover,
+    .btn-outline-primary:hover,
+    .btn-primary,
+    .alert-primary,
+    .label-primary,
+    .mainpos-header.mainpos-header-baru,
+    .mainpos-header.mainpos-header-baru .navbar .navbar-collapse .dropdown-menu,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-breadcrumb .breadcrumb-body,
+    .mainpos-content .pos-main-content .pos-content-right .side-menu .side-menu-header,
+    .hasil-seleksi-content .nav-buttons .btn-primary,
+    .table-title-mobile,
+    .btn-terima-kip,
+    .content-section .sub-tab ul.sub-tab-navs .nav-item .nav-link .border-bottom,
+    #RPL .button.button_primary,
+    #updocsModal .button.button_primary,
+    .offcanvas-menu .offcanvas-menu__body .panel-default>.panel-heading .form-input-check:checked~label:before,
+    .offcanvas-menu .offcanvas-menu__body .panel-default>.panel-heading .form-input-check:checked~label::after {
+        background-color: #1d8fe1;
+    }
+
+    .droppable-upload .drop-zone svg {
+        stroke: #1d8fe1;
+    }
+
+    .btn-primary:hover,
+    .droppable-upload .drop-zone,
+    #RPL .tab-content .education-level .form-check .form-check-label:before,
+    #RPL .tab-content .education-level .form-check .form-check-input:checked+label:after {
+        border-color: #1d8fe1;
+    }
+
+    .btn-secondary:hover {
+        border-color: #1d8fe1;
+    }
+
+    .btn:hover,
+    .btn:focus,
+    .btn:active,
+    .button:hover,
+    .button:focus,
+    .button:active,
+    a:hover,
+    a:focus,
+    a:active,
+    #RPL .button.button_primary:hover,
+    #updocsModal .button.button_primary:hover,
+    #RPL .button.button_secondary:hover .button__text,
+    #updocsModal .button.button_secondary:hover .button__text {
+        filter: brightness(0.95);
+    }
+
+    .icon-input,
+    .btn-line,
+    .btn-outline-primary,
+    a,
+    .text-brand,
+    .f1-step.active .f1-step-icon,
+    .f1-step.activated p,
+    .f1-step.active p,
+    .alert-primary,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .bukti-daftar .cards-id .id-group .id,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .bukti-daftar .cards-id .id-group .katasandi,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .pengumuman-title-bg,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .cards-summary .summary-value-brand,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .cards-alur .alur-number,
+    date-box span,
+    .mainpos-content .pos-bottom-content .pos-content-bottom01 .pengumuman-title a:hover,
+    .mainpos-header.mainpos-header-baru .pos-top-header .btn-login,
+    #header-pmb #mobile-navbar-collapse .nav a.active p,
+    #header-pmb .bg .navbar#header .container-fluid .right #mobile-nav:hover span,
+    #header-pmb #mobile-navbar-collapse .nav a.login p,
+    .button.primary.outline.login:hover p,
+    #header-pmb .dropdown.open .dropdown-menu a.active p,
+    .hasil-seleksi-content .detail-hasil .detail-item .item-icon .material-icons-round,
+    .hasil-seleksi-content.lanjutan .rincian-biaya .panel .panel-heading .panel-title a .item-icon .material-icons-round,
+    .hasil-seleksi-content .note span,
+    .pengumuman-kelulusan .list-berkas .berkas-item .material-icons-round,
+    .pengumuman-kelulusan a,
+    .button.primary.outline.login:hover p,
+    .btn-tolak-kip,
+    .btn-tolak-kip:hover,
+    .btn-tolak-kip:focus,
+    .content-section .sub-tab ul.sub-tab-navs .nav-item .nav-link.active h2,
+    .content-section .sub-tab ul.sub-tab-navs .nav-item.active .nav-link h2,
+    #RPL .button.button_secondary .button__text,
+    #updocsModal .button.button_secondary .button__text,
+    .droppable-upload .drop-zone .drop-zone__text-wrapper .title,
+    #RPL .table-wrapper .table-stripped .link-primary {
+        color: #1d8fe1;
+    }
+
+    .btn-line,
+    .btn-outline-primary,
+    .f1-step.activated .f1-step-icon,
+    .f1-step.active .f1-step-icon,
+    .input-group-addon,
+    .radio .cards-pilih-jalur:hover,
+    .radio input[type="radio"]:checked+.cards-pilih-jalur,
+    .bootstrap-datetimepicker-widget table td.active,
+    .bootstrap-datetimepicker-widget table td.active:hover,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .datapendaftar [type="checkbox"]:checked+label:before,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .datapendaftar [type="checkbox"].filled-in:checked+label:after,
+    date-box,
+    .btn-tolak-kip,
+    .btn-tolak-kip:hover,
+    .btn-tolak-kip:focus,
+    .offcanvas-menu .offcanvas-menu__body .panel-default.active,
+    .offcanvas-menu .offcanvas-menu__body .panel-default>.panel-heading .form-input-check:checked~label:before {
+        border-color: #1d8fe1;
+    }
+
+    .btn-line-accent,
+    .btn-accent,
+    .alert-accent,
+    .label-accent,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content01 hr,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content02 hr,
+    .mainpos-header.mainpos-header-baru .pos-top-header .btn-login:hover {
+        border-color: #ffa500;
+    }
+
+    .btn-line-accent,
+    .text-accent,
+    .mainpos-header .navbar li.active a,
+    .mainpos-header .navbar li:hover a,
+    .mainpos-header .navbar .navbar-collapse .home i:hover,
+    .mainpos-header .navbar .navbar-collapse .dropdown-menu li:hover a,
+    .mainpos-header .navbar .navbar-collapse .dropdown-menu li:active a,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content01 a.hover,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content02 a.hover,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content01 span,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content01 hr,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content02 span,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content02 hr,
+    .icon-input,
+    .btn-line,
+    a,
+    .text-brand,
+    .f1-step.active .f1-step-icon,
+    .f1-step.activated p,
+    .f1-step.active p,
+    .alert-primary,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .bukti-daftar .cards-id .id-group .id,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .bukti-daftar .cards-id .id-group .katasandi,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .pengumuman-title-bg,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .cards-summary .summary-value-brand,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-top01 .cards-alur .alur-number,
+    .mainpos-footer .footer-link .pos-bottom .pos-bottom-content03 i,
+    .mainpos-header.mainpos-header-baru .pos-top-header a,
+    .mainpos-header.mainpos-header-baru .pos-top-header h1 span,
+    .file-list-item .header .file-name,
+    #RPL .table-wrapper table .cell-uploaded-file .toggle {
+        color: #ffa500;
+    }
+
+    .btn-accent,
+    .alert-accent,
+    .label-accent,
+    .mainpos-header.mainpos-header-baru .pos-top-header .btn-daftar,
+    .mainpos-content .pos-main-content .pos-content-right .side-menu ul li.active {
+        background-color: #ffa500;
+    }
+
+    @media (min-width: 768px) {
+
+        .mainpos-header.mainpos-header-baru .navbar-nav>li.active>a,
+        .mainpos-header.mainpos-header-baru .navbar-nav>li:hover>a {
+            border-bottom: 4px solid #ffa500;
+        }
+    }
+
+
+    /* new header */
+
+
+    #header-pmb .navbar,
+    .cards-jalur .card-header {
+        background: #1d8fe1;
+    }
+
+    .button.primary.outline p,
+    .mainpos-content .pos-main-content .pos-content-right .side-menu ul li.active .step-number {
+        color: #ffa500;
+    }
+
+    .button.primary {
+        background: #ffa500;
+    }
+
+    #header-pmb .bg .navbar#header .container-fluid .menu-group .button.active::after,
+    .button.primary.outline:hover {
+        background: #ffffff;
+    }
+
+    .button.primary.outline {
+        border: 2px solid #fff;
+    }
+
+    #header-pmb a:hover,
+    #header-pmb .bg .navbar#header .container-fluid .header-title h3,
+    #header-pmb .bg .navbar#header .container-fluid .header-title h2,
+    #header-pmb .bg .navbar#header .container-fluid .menu-group .button p,
+    .button.primary.outline p,
+    #header-pmb .bg .navbar#header .container-fluid .menu-group .button.active p,
+    #header-pmb .bg .navbar#header .container-fluid .menu-group .button.active:hover p,
+    #header-pmb .bg .navbar#header .container-fluid .menu-group .button.active:focus p,
+    #header-pmb .bg .navbar#header .container-fluid .menu-group .button:hover p,
+    #header-pmb .bg .navbar#header .container-fluid .menu-group .button:focus p,
+    .mainpos-content .pos-main-content .pos-content-body .pos-content-breadcrumb .breadcrumb-body small,
+    .button.primary.outline:hover p,
+    .button.primary p,
+    #header-pmb .bg .navbar#header .container-fluid .right #mobile-nav,
+    .button.primary.outline.login p {
+        color: #ffffff;
+    }
+
+    #header-pmb .menu-group #pilih-bahasa .material-icons-round,
+    #header-pmb .dropdown .dropdown-menu a .material-icons-round {
+        color: #f5f5f5;
+    }
+
+    #header-pmb #mobile-navbar-collapse .nav a.login {
+        border: 1px solid #1d8fe1;
+    }
+
+    #header-pmb #mobile-navbar-collapse .nav a.login:hover {
+        background-color: #1d8fe12d;
+    }
+
+    .mainpos-header .pos-top-header {
+        background: url("https://assets.siakadcloud.com/uploads/itbaas/bgaplikasi/1033.jpg?42642");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .vspace {
+        height: 10px;
+    }
+</style>        
+</head>
+
+<body>
+
+    
+
+
+<header class="mainpos-header mainpos-header-baru">
+    <div id="header-pmb">
+        <div class="bg">
+            <nav class="navbar" id="header">
+                <div class="container">
+                    <div class="container-fluid">
+                        <div class="left">
+                            <img src="https://assets.siakadcloud.com/uploads/itbaas/logoaplikasi/1033.jpg"/>
+                            <div class="header-title">
+                                <h3>Seleksi Penerimaan Mahasiswa Baru</h3>
+                                <h2 translate="no">Institut Teknologi Bisnis AAS Indonesia</h2>
+                            </div>
+                        </div>
+
+
+                        <div class="menu-group">
+                                                        <a href="/home" class="button menu "><p>Beranda</p></a>
+                            <a href="/jalur-seleksi" class="button menu "><p>Jalur Pendaftaran</p></a>
+                                                        <div class="dropdown">
+                                <a href="#" class="button menu dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    <p>
+                                        Informasi                                        <span class="material-icons-round arrow-down">keyboard_arrow_down</span>
+                                        <span class="material-icons-round arrow-up">keyboard_arrow_up</span>
+                                    </p>
+
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a href="/program-studi" class=""><p>Program Studi</p></a>
+                                    <a href="/pengumuman" class=""><p>Pengumuman</p></a>
+                                    <a href="/daftar-informasi" class="active"><p>Informasi Pendaftaran</p></a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="right">
+                            <div translate="no" class="menu-group dropdown bahasa-dropdown">
+                                <a id="pilih-bahasa" href="#" class="button dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    <p>
+                                        ID                                        <span class="material-icons-round">language</span>
+                                    </p>
+                                </a>
+                                <div class="dropdown-menu pull-right">
+                                    <p class="title">Pilih Bahasa</p>
+                                    <a href="/daftar-informasi?lang=id">
+                                        <img src="https://assets.siakadcloud.com/spmbfront/assets/default/img/flag-indonesia.png" width="24px">
+                                        <p>
+                                            Bahasa Indonesia                                        </p>
+                                    </a>
+                                    <hr>
+                                    <a href="/daftar-informasi?lang=en">
+                                        <img src="https://assets.siakadcloud.com/spmbfront/assets/default/img/flag-inggris2.jpg" width="24px">
+                                        <p>
+                                            English                                        </p>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                            <div class="profile">
+                                <!-- not logged in -->
+                                                                <div class="login-button">
+                                    <a href="/login"  class="button primary outline login" type="button">
+                                        <p class="login">                                            
+                                            Masuk                                        </p>
+                                    </a>
+                                </div>
+                                
+                            
+                            </div> 
+
+                            <a class="button primary outline navbar-toggle collapsed" type="button" id="mobile-nav"  data-toggle="collapse" data-target="#mobile-navbar-collapse" aria-expanded="false" aria-controls="mobile-navbar-collapse">
+                                <span class="material-icons-round">menu</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </nav>
+            <!-- mobile -->
+
+            <div class="collapse navbar-collapse" id="mobile-navbar-collapse">
+                <div class="nav navbar-nav">
+                                                <a href="/home" class="button menu "><p>Beranda</p></a>
+                        <a href="/jalur-seleksi" class="button menu "><p>Jalur Seleksi</p></a>
+                                                <a href="/program-studi" class="button menu "><p>Program Studi</p></a>
+                        <a href="/pengumuman" class="button menu "><p>Pengumuman</p></a>
+                        <a href="/daftar-informasi" class="button menu active"><p>Informasi Pendaftaran</p></a>
+
+                        <div translate="no" class="menu-group dropdown bahasa-dropdown">
+                            <a id="pilih-bahasa" href="#" class="button dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                <p>
+                                    ID                                    <span class="material-icons-round">language</span>
+                                </p>
+                            </a>
+                            <div class="dropdown-menu">
+                                <p class="title">Pilih Bahasa</p>
+                                <a href="/daftar-informasi?lang=id">
+                                    <img src="https://assets.siakadcloud.com/spmbfront/assets/default/img/flag-indonesia.png" width="24px">
+                                    <p>
+                                        Bahasa Indonesia                                    </p>
+                                </a>
+                                <hr>
+                                <a href="/daftar-informasi?lang=en">
+                                    <img src="https://assets.siakadcloud.com/spmbfront/assets/default/img/flag-inggris2.jpg" width="24px">
+                                    <p>
+                                        English                                    </p>
+                 
+                                </a>
+                            </div>
+                        </div>
+
+                                                <a href="/login"  class="login" type="button">
+                                <p>                                            
+                                    Masuk                                </p>
+                            </a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    </header>
+
+<style>
+    div.logo-wrapper {
+        padding-left: 5px;
+    }
+
+    .mainpos-header .navbar .navbar-header .title {
+        margin-top: 1px;
+        padding-right: 0px;
+    }
+
+    .mainpos-header .navbar .navbar-header .title p {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .mainpos-header .navbar .navbar-header .navbar-toggle {
+        /*margin-top: 65px;*/
+    }
+
+    .carousel {
+        height: 600px;
+    }
+
+    .carousel-inner{
+        z-index: +1;
+    }
+
+    .carousel-inner>.item>img {
+        display: block;
+        height: 600px;
+        max-height: 600px;
+        min-width: 100%;
+        width: 100%;
+        max-width: 100%;
+        object-fit: cover;
+    }
+
+    .carousel-caption .btn-daftar {
+        font-size: 24px;
+        color: #FFFFFF;
+        margin: 2em 0;
+        padding: 0.5em 1em;
+    }
+
+    .carousel-caption .btn-login {
+        background: none;
+        font-size: 12px;
+        margin: 2em 0 1.5em;
+        padding: 1em 1.5em
+    }
+
+    .carousel-upper {
+        position: absolute;
+        top: 50px;
+        width: 100%;
+    }
+</style>    <section class="mainpos-content">
+        <div class="container">
+            <div class="row ">
+                <div class="pos-main-content">
+                                        <!-- pos-content-body -->
+                    <section class="pos-content-body col-md-12 form-page">
+                                                    <div class="row">
+                                <div class="pos-content-breadcrumb col-md-12">
+                                    <div class="breadcrumb-body">
+                                                                                <small><a href="/home">Home</a><span style="margin: 0 8px"> > </span>Informasi</small>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <div class="body-pmb">
+                                                            <div class="row">
+                                    <div class="pos-content-header col-md-12" translate="no">
+                                        <h2 class="main-header">Informasi</h2>
+                                        <p class="sub-header">Dapatkan Informasi Terbaru Mengenai Pendaftaran</p>
+                                    </div>
+                                </div>
+                            
+                            <div class="row">
+                                <div class="pos-content-top01">
+                                                                        
+<style>
+    .date-box {
+        padding: 0px !important;
+    }
+
+    .date-box .inner-date-box {
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 75px;
+        background-size: cover;
+    }
+</style>
+
+<div class="pengumuman-xs col-md-12">
+	<div class="row">
+				<div class="col-xs-12">
+					<div class="pengumuman-title">
+				<a href="/informasi/1/kebijakan-dan-prosedur-pmb-itb-aas-adalah-sebagai-berikut">
+					Kebijakan dan prosedur PMB ITB AAS adalah sebagai berikut :				</a>
+			</div>
+			<div class="pengumuman-body">
+				
+Jalur Seleksi Mahasiswa Reguler (Peserta Didik Baru). Pada jalur ini, calon mahasiswa baru mengisi formulir pendaftaran dan mengumpulkannya dengan dilengkapi persyaratan administrasi. Setelah melakukan pendaftar			</div>
+			<div class="pengumuman-datetime">
+				12 Januari 2023, 10:07:50			</div>
+		</div>
+	</div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- /pos-content-body -->
+                                    </div>
+            </div>
+        </div>
+
+            </section>
+
+        <link rel="stylesheet" href="https://assets.siakadcloud.com/spmbfront/assets/default/../default/css/style.wa.min.css" />
+
+    <div id="okewa" class="okewa-style_1  okewa-right   branded">  
+        <div class="okewa-pulse_3" style="border-color:#0dc152;"></div>
+        <a href="https://wa.me/+6285799205711?text=Saya ingin bertanya tentang PMB di ITB AAS Indonesia" target="_blank" style="filter:unset; ">
+            <div id="okewa-floating_cta" class="ok_animated ok_bounceInUp" style="background:#0dc152; z-index: 999;">    
+                <span class="okewa-fc_text">Butuh Bantuan? Hubungi Kami!</span>    
+                <img class="okewa-fc_icon" src="https://assets.siakadcloud.com/spmbfront/assets/default//img/whatsapp-icon.png" alt="">  
+            </div>  
+        </a>
+    </div>
+    <style>
+        .user-guide {
+            position: relative;
+            width: 220px;
+            height: 60px;
+        }
+        .user-guide a {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+        }
+        .user-guide p {
+            position: absolute;
+            top: 20px;
+            left: 60px;
+            width: 150px;
+            font-size: 12px;
+            text-align: center;
+            z-index: 2;
+        }
+</style>
+<footer class="mainpos-footer" id="kontak">
+    <div class="bantuan">
+        <div class="container">
+            <!-- pos-bottom -->
+            <div class="row pos-bottom">
+                <!-- pos-bottom-contentheader -->
+                <div class="pos-bottom-contentheader col-md-12">
+                    <div class="bantuan-content">
+                        <div class="img">
+                            <img src="https://assets.siakadcloud.com/spmbfront/assets/default/img/speech-bubble.png">
+                        </div>
+                        <div class="text">
+                            <div class="bantuan-header">
+                                <h2>Layanan Bantuan</h2>
+                            </div>
+                            <div class="bantuan-content" translate="no">
+                                <p>Jika ada hal yang kurang jelas, silakan menghubungi kami ke <span>+6285799205711</span> atau email                                <span>itbaas.indonesia@gmail.com</span> </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /pos-bottom-contentheader -->
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-link">
+        <div class="container">
+            <!-- pos-bottom -->
+            <div class="row pos-bottom">
+                <div class="row">
+                    <!-- pos-bottom-content01 -->
+                    <div class="pos-bottom-content01 col-sm-3">
+                        <span>Link Cepat</span>
+                        <hr>
+                        <ul>
+                                                            <li><a href="http://pmb.itbaas.ac.id/program-studi-detail/detail/62401" target="_blank">D3 Akuntansi</a></li>
+                                                            <li><a href="http://pmb.itbaas.ac.id/program-studi-detail/detail/62302" target="_blank">D4 Kebijakan dan Manajemen Pajak</a></li>
+                                                            <li><a href="http://pmb.itbaas.ac.id/program-studi-detail/detail/62201" target="_blank">S1 Akuntansi</a></li>
+                                                            <li><a href="http://pmb.itbaas.ac.id/program-studi-detail/detail/60206" target="_blank">S1 Ekonomi Syariah</a></li>
+                                                            <li><a href="http://pmb.itbaas.ac.id/program-studi-detail/detail/55201" target="_blank">S1 Informatika</a></li>
+                                                    </ul>
+                    </div>
+                    <!-- /pos-bottom-content01 -->
+                    <!-- pos-bottom-content02 -->
+                    <div class="pos-bottom-content02 col-sm-3">
+                        <span>Informasi Pendaftaran</span>
+                        <hr>
+                        <ul>
+                                                            <li><a href="/informasi/1/kebijakan-dan-prosedur-pmb-itb-aas-adalah-sebagai-berikut">Kebijakan dan prosedur PMB ITB AAS adalah sebagai berikut :</a></li>
+                                                        </ul>
+                    </div>
+                    <!-- /pos-bottom-content02 -->
+                    <!-- pos-bottom-content03 -->
+                    <div class="pos-bottom-content03 col-sm-6">
+                        <div class="col-md-2 col-sm-3 col-xs-12 ">
+                            <img src="https://assets.siakadcloud.com/uploads/itbaas/logoaplikasi/1033.jpg" width="48"/>
+                        </div>
+                        <div class="deskripsi-footer col-md-10 col-sm-9 col-xs-12">
+                            <div class="row" translate="no">
+                                <p>Institut Teknologi Bisnis AAS Indonesia</p>
+                                                                                                <h6><i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp;&nbsp;Jl. Slamet Riyadi No. 361 Windan, Makamhaji, Kartasura, Sukoharjo</h6>
+                                                                                                <h6><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;+6285799205711</h6>
+                                                                                                                                <h6><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;itbaas.indonesia@gmail.com</h6>
+                                                                                                <h6><i class="fa fa-facebook" aria-hidden="true"></i>&nbsp;&nbsp;itbaas.indonesia</h6>
+                                                                                                <h6><i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;@itbaas</h6>
+                                                                                                <h6><i class="fa fa-instagram" aria-hidden="true"></i>&nbsp;&nbsp;@itbaas_indonesia</h6>
+                                                            </div>
+                            <br>
+                            <div class="row">
+                                <div class="user-guide">
+                                    <a href="/user-guide"><img src="https://assets.siakadcloud.com/spmbfront/assets/default/img/img-ug.png" width="220px" height="58px" alt=""><p>Petunjuk Pendaftaran</p></a><br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /pos-bottom-content03 -->
+                </div>
+            </div>
+            <!-- /pos-bottom -->
+        </div>
+    </div>
+    <div class="footer-buttom">
+        <div class="container">
+            <div class="row">
+                <!-- pos-copyright -->
+                <div class="pos-copyright col-sm-6 col-xs-6">
+                    <small>Copyright @ 2026 Institut Teknologi Bisnis AAS Indonesia</small>
+                </div>
+                <!-- /pos-copyright -->
+                <!-- pos-SNS03 -->
+                <div class="pos-SNS03 col-sm-6 col-xs-6">
+                    <small>Powered by &nbsp;<a href="https://sevima.com/" target="_blank" style="color:#828282"><img src="https://assets.siakadcloud.com/spmbfront/assets/default/img/logo-sevima-platform-100.png" width="24"/>&nbsp;&nbsp;SEVIMA</a></small>
+                </div>
+                <!-- /pos-SNS03 -->
+            </div>
+        </div>
+    </div>
+</footer>
+        <script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/6127d42dd6e7610a49b22d7e/1fe1p9lba';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+
+        // Custom styling of Offset starts here
+        Tawk_API.customStyle = {
+            visibility: {
+                //for desktop only
+                desktop: {
+                    position: 'br', // bottom-right
+                    xOffset: 40, // 40px away from right
+                    yOffset: 60 // 60px up from bottom
+                },
+                // for mobile only
+                mobile: {
+                    position: 'br', // bottom-right
+                    xOffset: 5, // 5px away from right
+                    yOffset: 60 // 50px up from bottom
+                },
+            }
+        }
+    </script>
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91361426-5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('set', {
+            'user_id': 'Institut Teknologi Bisnis AAS Indonesia :  - '
+        });
+        gtag('config', 'UA-91361426-5', {
+            'custom_map': {
+                'dimension1': 'PerguruanTinggi',
+                'dimension2': 'Pengguna',
+                'dimension3': 'HakAkses',
+                'dimension4': 'UnitKerja',
+                'metric1': 'Pageviews'
+            }
+        });
+
+        gtag('event', 'push_custom_var', {
+            'PerguruanTinggi': 'Institut Teknologi Bisnis AAS Indonesia',
+            'Pengguna': 'Institut Teknologi Bisnis AAS Indonesia :  - ',
+            'HakAkses': '',
+            'UnitKerja': ' - ',
+            'Pageviews': 1
+        });
+    </script>
+
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "ofu5vu16qk");
+
+        if (typeof clarity !== "undefined") {
+            clarity("set", "perguruan_tinggi", "Institut Teknologi Bisnis AAS Indonesia");
+            clarity("set", "nama_role", "");
+            clarity("set", "pengguna", "Institut Teknologi Bisnis AAS Indonesia :  - ");
+            clarity("set", "unit_kerja", " - ");
+        }
+    </script>
+
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-analytics.js"></script>
+<script>
+    if(firebaseConfig == undefined){
+        var firebaseConfig = {
+            apiKey: "AIzaSyBE85GSM4dBUZ8m9aoJZVpSOQltwQZttDc",
+            authDomain: "siakad-cloud-2.firebaseapp.com",
+            databaseURL: "https://siakad-cloud-2.firebaseio.com",
+            projectId: "siakad-cloud-2",
+            storageBucket: "siakad-cloud-2.appspot.com",
+            messagingSenderId: "735352312839",
+            appId: "1:735352312839:web:9aa5508b27862f29a146a2",
+            measurementId: "G-9GSZKDCXHL"
+        };
+        firebase.initializeApp(firebaseConfig);
+    }
+</script>
+    <script>
+        firebase.analytics();
+    </script>
+    
+                
+    <!-- Alpine js -->
+    <script src="https://assets.siakadcloud.com/spmbfront/assets/default//js/alpine.min.js?260526"></script>
+</body>
+
+</html>

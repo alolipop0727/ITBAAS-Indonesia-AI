@@ -1,0 +1,36 @@
+{
+  "source_page": "https://itbaas.id/unit-kegiatan-mahasiswa/",
+  "source_page_copy": "https://itbaas.id/unit-kegitan-mahasiswa-copy/",
+  "verified_at": "2026-11-06",
+  "notes": [
+    "BEM dan HIMA adalah organisasi mahasiswa intra-kampus/tingkat program studi yang ditampilkan di halaman yang sama dengan UKM.",
+    "Halaman copy sempat berisi placeholder Lorem ipsum untuk KOPMA/KSPM; deskripsi memakai halaman utama unit-kegiatan-mahasiswa.",
+    "Tidak ada link pendaftaran UKM resmi di KB; arahkan calon anggota ke PPKMB/EXPO UKM, admin kampus, atau Instagram masing-masing UKM."
+  ],
+  "general": {
+    "definition": "UKM adalah organisasi kemahasiswaan di lingkungan perguruan tinggi yang dibentuk untuk mewadahi pengembangan minat, bakat, dan kepribadian di luar kegiatan akademik.",
+    "typical_activities": ["pelatihan rutin", "lomba", "pentas seni", "seminar", "kegiatan sosial", "pengabdian masyarakat", "Expo UKM saat PPKMB"],
+    "benefits": ["kepemimpinan", "komunikasi", "kerja tim", "pengelolaan waktu", "jejaring", "nilai tambah kerja"]
+  },
+  "organizations": [
+    {"name": "Badan Eksekutif Mahasiswa (BEM)", "type": "intra_campus_executive", "focus": "lembaga eksekutif mahasiswa; menjalankan program kerja, aspirasi mahasiswa, jembatan mahasiswa-kampus", "instagram": "https://www.instagram.com/bemitbaas/"},
+    {"name": "Himpunan Mahasiswa (HIMA)", "type": "program_study_association", "focus": "wadah aspirasi, minat-bakat, kegiatan akademik/non-akademik per jurusan/prodi", "instagram": "https://www.instagram.com/hima_itbaas/"},
+    {"name": "Mahasiswa Pencinta Alam (Devendra Maaspala)", "type": "ukm_environment_nature", "focus": "kepedulian lingkungan, kegiatan alam bebas, ketahanan fisik/mental, keterampilan bertahan hidup", "instagram": "https://www.instagram.com/maaspala_itbaas/"},
+    {"name": "Unit Kegiatan Mahasiswa Islam (UKMI)", "type": "ukm_religious", "focus": "pengembangan spiritual, intelektual, sosial; Lembaga Dakwah Kampus (LDK)", "instagram": "https://www.instagram.com/ukmi_amaliyah_ilmi/"},
+    {"name": "Radio AAS FM", "type": "ukm_media_broadcast", "focus": "penyiaran radio; penyiar, produser, kru radio", "instagram": "https://www.instagram.com/aas.fm/"},
+    {"name": "BuluTangkis AAS (Butaas)", "type": "ukm_sports", "focus": "bulu tangkis; rekreasi dan kompetisi", "instagram": "https://www.instagram.com/bulutangkis_itbaas/"},
+    {"name": "AASCOUSTIC", "type": "ukm_arts_music", "focus": "musik; pengembangan minat-bakat dan berbagi pengalaman", "instagram": "https://www.instagram.com/aascoustic/"},
+    {"name": "Futsal ITBAAS Indonesia", "type": "ukm_sports", "focus": "futsal; latihan dan kompetisi", "instagram": "https://www.instagram.com/futsal_itbaas/"},
+    {"name": "Koperasi Mahasiswa (KOPMA ITBAAS)", "type": "ukm_entrepreneurship_coop", "focus": "koperasi mahasiswa; usaha, kebutuhan mahasiswa, pelatihan ekonomi/manajemen", "instagram": "https://www.instagram.com/kopma.itbaasindonesia/"},
+    {"name": "KSPM GI ITB AAS INDONESIA", "type": "ukm_investment_capital_market", "focus": " pasar modal dan investasi; edukasi/pelatihan/Galeri Investasi", "instagram": "https://www.instagram.com/kspmgi_itbaas/"}
+  ],
+  "agent_answering_rules": [
+    "Jika ditanya 'ada UKM apa saja', list nama + fokus singkat + Instagram; sebut BEM/HIMA sebagai organisasi intra-kampus/prodi bila relevan.",
+    "Jika ditanya cara gabung, jawab: ikuti PPKMB/Expo UKM atau DM/kunjungi Instagram UKM terkait; jangan mengarang formulir/biaya/tanggal pendaftaran.",
+    "Jika ditanya info terbaru UKM, prioritaskan Instagram resmi UKM; sarankan user 'kepoin' akun untuk jadwal/rekrutmen terbaru, lalu DM jika perlu.",
+    "Jangan klaim admin UKM pasti membalas DM; beri fallback: tunggu H+3–7 hari, atau hubungi admin kampus/WA +62 857-9920-5711.",
+    "Jika ditanya syarat/periode rekrutmen, jawab tidak ada data resmi di KB; arahkan ke Instagram UKM terkait atau admin kampus.",
+    "Jika ditanya manfaat, jawab dari general.benefits dan beri contoh organisasi sesuai minat user.",
+    "Jangan menjanjikan diterima menjadi anggota; seleksi/keputusan ada di pengurus UKM."
+  ]
+}

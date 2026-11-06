@@ -1,0 +1,19 @@
+{
+  "name": "sample-itbaas-kb",
+  "built_at": "2026-11-06T05:48:44.297296+00:00",
+  "sources": [
+    "id.wikipedia.org",
+    "itbaas.ac.id",
+    "itbaas.id",
+    "pmb.itbaas.ac.id"
+  ],
+  "items": 436,
+  "chunks": 1324,
+  "chunks_file": "data/knowledge_chunks.jsonl",
+  "corpus_file": "data/corpus.txt",
+  "selection": "itbaas.id canonical; itbaas.ac.id-only slugs merged; PMB and Wikipedia included",
+  "notes": [
+    "Public data only; no authenticated SIAKAD/PDDIKTI data.",
+    "Verify accreditation/current fees against official sources before publishing."
+  ]
+}

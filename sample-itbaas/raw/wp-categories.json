@@ -1,0 +1,996 @@
+[
+  {
+    "id": 12,
+    "count": 7,
+    "description": "",
+    "link": "https://itbaas.ac.id/category/beasiswa/",
+    "name": "Beasiswa",
+    "slug": "beasiswa",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Beasiswa Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://itbaas.ac.id/category/beasiswa/\" />\n<meta property=\"og:locale\" content=\"id_ID\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Beasiswa Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta property=\"og:url\" content=\"https://itbaas.ac.id/category/beasiswa/\" />\n<meta property=\"og:site_name\" content=\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/beasiswa\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/category\\/beasiswa\\/\",\"name\":\"Beasiswa Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"isPartOf\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/beasiswa\\/#breadcrumb\"},\"inLanguage\":\"id\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/beasiswa\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https:\\/\\/itbaas.ac.id\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Beasiswa\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"description\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"publisher\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/itbaas.ac.id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"id\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"id\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"contentUrl\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"width\":749,\"height\":218,\"caption\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\"},\"image\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Beasiswa Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://itbaas.ac.id/category/beasiswa/",
+      "og_locale": "id_ID",
+      "og_type": "article",
+      "og_title": "Beasiswa Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "og_url": "https://itbaas.ac.id/category/beasiswa/",
+      "og_site_name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://itbaas.ac.id/category/beasiswa/",
+            "url": "https://itbaas.ac.id/category/beasiswa/",
+            "name": "Beasiswa Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "isPartOf": {
+              "@id": "https://itbaas.ac.id/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://itbaas.ac.id/category/beasiswa/#breadcrumb"
+            },
+            "inLanguage": "id"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://itbaas.ac.id/category/beasiswa/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://itbaas.ac.id/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Beasiswa"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://itbaas.ac.id/#website",
+            "url": "https://itbaas.ac.id/",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "description": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "publisher": {
+              "@id": "https://itbaas.ac.id/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://itbaas.ac.id/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "id"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://itbaas.ac.id/#organization",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "url": "https://itbaas.ac.id/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "id",
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/",
+              "url": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "contentUrl": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "width": 749,
+              "height": 218,
+              "caption": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA"
+            },
+            "image": {
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories/12",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts?categories=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "count": 179,
+    "description": "",
+    "link": "https://itbaas.ac.id/category/berita-kampus/",
+    "name": "Berita Kampus",
+    "slug": "berita-kampus",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Berita Kampus Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://itbaas.ac.id/category/berita-kampus/\" />\n<meta property=\"og:locale\" content=\"id_ID\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Berita Kampus Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta property=\"og:url\" content=\"https://itbaas.ac.id/category/berita-kampus/\" />\n<meta property=\"og:site_name\" content=\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/berita-kampus\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/category\\/berita-kampus\\/\",\"name\":\"Berita Kampus Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"isPartOf\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/berita-kampus\\/#breadcrumb\"},\"inLanguage\":\"id\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/berita-kampus\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https:\\/\\/itbaas.ac.id\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Berita Kampus\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"description\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"publisher\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/itbaas.ac.id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"id\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"id\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"contentUrl\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"width\":749,\"height\":218,\"caption\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\"},\"image\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Berita Kampus Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://itbaas.ac.id/category/berita-kampus/",
+      "og_locale": "id_ID",
+      "og_type": "article",
+      "og_title": "Berita Kampus Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "og_url": "https://itbaas.ac.id/category/berita-kampus/",
+      "og_site_name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://itbaas.ac.id/category/berita-kampus/",
+            "url": "https://itbaas.ac.id/category/berita-kampus/",
+            "name": "Berita Kampus Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "isPartOf": {
+              "@id": "https://itbaas.ac.id/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://itbaas.ac.id/category/berita-kampus/#breadcrumb"
+            },
+            "inLanguage": "id"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://itbaas.ac.id/category/berita-kampus/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://itbaas.ac.id/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Berita Kampus"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://itbaas.ac.id/#website",
+            "url": "https://itbaas.ac.id/",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "description": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "publisher": {
+              "@id": "https://itbaas.ac.id/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://itbaas.ac.id/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "id"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://itbaas.ac.id/#organization",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "url": "https://itbaas.ac.id/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "id",
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/",
+              "url": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "contentUrl": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "width": 749,
+              "height": 218,
+              "caption": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA"
+            },
+            "image": {
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories/13",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts?categories=13"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 13,
+    "description": "",
+    "link": "https://itbaas.ac.id/category/blog/",
+    "name": "Blog",
+    "slug": "blog",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Blog Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://itbaas.ac.id/category/blog/\" />\n<meta property=\"og:locale\" content=\"id_ID\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Blog Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta property=\"og:url\" content=\"https://itbaas.ac.id/category/blog/\" />\n<meta property=\"og:site_name\" content=\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/blog\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/category\\/blog\\/\",\"name\":\"Blog Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"isPartOf\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/blog\\/#breadcrumb\"},\"inLanguage\":\"id\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/blog\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https:\\/\\/itbaas.ac.id\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"description\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"publisher\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/itbaas.ac.id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"id\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"id\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"contentUrl\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"width\":749,\"height\":218,\"caption\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\"},\"image\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Blog Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://itbaas.ac.id/category/blog/",
+      "og_locale": "id_ID",
+      "og_type": "article",
+      "og_title": "Blog Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "og_url": "https://itbaas.ac.id/category/blog/",
+      "og_site_name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://itbaas.ac.id/category/blog/",
+            "url": "https://itbaas.ac.id/category/blog/",
+            "name": "Blog Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "isPartOf": {
+              "@id": "https://itbaas.ac.id/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://itbaas.ac.id/category/blog/#breadcrumb"
+            },
+            "inLanguage": "id"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://itbaas.ac.id/category/blog/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://itbaas.ac.id/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://itbaas.ac.id/#website",
+            "url": "https://itbaas.ac.id/",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "description": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "publisher": {
+              "@id": "https://itbaas.ac.id/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://itbaas.ac.id/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "id"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://itbaas.ac.id/#organization",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "url": "https://itbaas.ac.id/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "id",
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/",
+              "url": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "contentUrl": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "width": 749,
+              "height": 218,
+              "caption": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA"
+            },
+            "image": {
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 3,
+    "description": "",
+    "link": "https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/",
+    "name": "Kajian Ilmiah Dosen ITB AAS",
+    "slug": "kajian-ilmiah-dosen-itb-aas",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Kajian Ilmiah Dosen ITB AAS Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/\" />\n<meta property=\"og:locale\" content=\"id_ID\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kajian Ilmiah Dosen ITB AAS Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta property=\"og:url\" content=\"https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/\" />\n<meta property=\"og:site_name\" content=\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/kajian-ilmiah-dosen-itb-aas\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/category\\/kajian-ilmiah-dosen-itb-aas\\/\",\"name\":\"Kajian Ilmiah Dosen ITB AAS Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"isPartOf\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/kajian-ilmiah-dosen-itb-aas\\/#breadcrumb\"},\"inLanguage\":\"id\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/kajian-ilmiah-dosen-itb-aas\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https:\\/\\/itbaas.ac.id\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Kajian Ilmiah Dosen ITB AAS\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"description\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"publisher\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/itbaas.ac.id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"id\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"id\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"contentUrl\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"width\":749,\"height\":218,\"caption\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\"},\"image\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Kajian Ilmiah Dosen ITB AAS Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/",
+      "og_locale": "id_ID",
+      "og_type": "article",
+      "og_title": "Kajian Ilmiah Dosen ITB AAS Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "og_url": "https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/",
+      "og_site_name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/",
+            "url": "https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/",
+            "name": "Kajian Ilmiah Dosen ITB AAS Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "isPartOf": {
+              "@id": "https://itbaas.ac.id/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/#breadcrumb"
+            },
+            "inLanguage": "id"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://itbaas.ac.id/category/kajian-ilmiah-dosen-itb-aas/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://itbaas.ac.id/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Kajian Ilmiah Dosen ITB AAS"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://itbaas.ac.id/#website",
+            "url": "https://itbaas.ac.id/",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "description": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "publisher": {
+              "@id": "https://itbaas.ac.id/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://itbaas.ac.id/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "id"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://itbaas.ac.id/#organization",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "url": "https://itbaas.ac.id/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "id",
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/",
+              "url": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "contentUrl": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "width": 749,
+              "height": 218,
+              "caption": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA"
+            },
+            "image": {
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories/32",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts?categories=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "count": 5,
+    "description": "",
+    "link": "https://itbaas.ac.id/category/mitra/",
+    "name": "Mitra",
+    "slug": "mitra",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Mitra Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://itbaas.ac.id/category/mitra/\" />\n<meta property=\"og:locale\" content=\"id_ID\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mitra Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta property=\"og:url\" content=\"https://itbaas.ac.id/category/mitra/\" />\n<meta property=\"og:site_name\" content=\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/mitra\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/category\\/mitra\\/\",\"name\":\"Mitra Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"isPartOf\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/mitra\\/#breadcrumb\"},\"inLanguage\":\"id\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/mitra\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https:\\/\\/itbaas.ac.id\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mitra\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"description\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"publisher\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/itbaas.ac.id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"id\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"id\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"contentUrl\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"width\":749,\"height\":218,\"caption\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\"},\"image\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Mitra Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://itbaas.ac.id/category/mitra/",
+      "og_locale": "id_ID",
+      "og_type": "article",
+      "og_title": "Mitra Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "og_url": "https://itbaas.ac.id/category/mitra/",
+      "og_site_name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://itbaas.ac.id/category/mitra/",
+            "url": "https://itbaas.ac.id/category/mitra/",
+            "name": "Mitra Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "isPartOf": {
+              "@id": "https://itbaas.ac.id/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://itbaas.ac.id/category/mitra/#breadcrumb"
+            },
+            "inLanguage": "id"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://itbaas.ac.id/category/mitra/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://itbaas.ac.id/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Mitra"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://itbaas.ac.id/#website",
+            "url": "https://itbaas.ac.id/",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "description": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "publisher": {
+              "@id": "https://itbaas.ac.id/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://itbaas.ac.id/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "id"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://itbaas.ac.id/#organization",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "url": "https://itbaas.ac.id/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "id",
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/",
+              "url": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "contentUrl": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "width": 749,
+              "height": 218,
+              "caption": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA"
+            },
+            "image": {
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories/24",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts?categories=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 3,
+    "description": "",
+    "link": "https://itbaas.ac.id/category/prestasi/",
+    "name": "Prestasi",
+    "slug": "prestasi",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Prestasi Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://itbaas.ac.id/category/prestasi/\" />\n<meta property=\"og:locale\" content=\"id_ID\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Prestasi Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta property=\"og:url\" content=\"https://itbaas.ac.id/category/prestasi/\" />\n<meta property=\"og:site_name\" content=\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/prestasi\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/category\\/prestasi\\/\",\"name\":\"Prestasi Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"isPartOf\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/prestasi\\/#breadcrumb\"},\"inLanguage\":\"id\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/prestasi\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https:\\/\\/itbaas.ac.id\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Prestasi\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"description\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"publisher\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/itbaas.ac.id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"id\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"id\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"contentUrl\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"width\":749,\"height\":218,\"caption\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\"},\"image\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Prestasi Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://itbaas.ac.id/category/prestasi/",
+      "og_locale": "id_ID",
+      "og_type": "article",
+      "og_title": "Prestasi Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "og_url": "https://itbaas.ac.id/category/prestasi/",
+      "og_site_name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://itbaas.ac.id/category/prestasi/",
+            "url": "https://itbaas.ac.id/category/prestasi/",
+            "name": "Prestasi Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "isPartOf": {
+              "@id": "https://itbaas.ac.id/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://itbaas.ac.id/category/prestasi/#breadcrumb"
+            },
+            "inLanguage": "id"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://itbaas.ac.id/category/prestasi/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://itbaas.ac.id/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Prestasi"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://itbaas.ac.id/#website",
+            "url": "https://itbaas.ac.id/",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "description": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "publisher": {
+              "@id": "https://itbaas.ac.id/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://itbaas.ac.id/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "id"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://itbaas.ac.id/#organization",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "url": "https://itbaas.ac.id/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "id",
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/",
+              "url": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "contentUrl": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "width": 749,
+              "height": 218,
+              "caption": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA"
+            },
+            "image": {
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories/15",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts?categories=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 0,
+    "description": "",
+    "link": "https://itbaas.ac.id/category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Uncategorized Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://itbaas.ac.id/category/uncategorized/\" />\n<meta property=\"og:locale\" content=\"id_ID\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Uncategorized Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta property=\"og:url\" content=\"https://itbaas.ac.id/category/uncategorized/\" />\n<meta property=\"og:site_name\" content=\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/uncategorized\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/category\\/uncategorized\\/\",\"name\":\"Uncategorized Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"isPartOf\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/uncategorized\\/#breadcrumb\"},\"inLanguage\":\"id\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/category\\/uncategorized\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Beranda\",\"item\":\"https:\\/\\/itbaas.ac.id\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Uncategorized\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#website\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"description\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"publisher\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/itbaas.ac.id\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"id\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#organization\",\"name\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\",\"url\":\"https:\\/\\/itbaas.ac.id\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"id\",\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"contentUrl\":\"https:\\/\\/itbaas.ac.id\\/wp-content\\/uploads\\/2025\\/07\\/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png\",\"width\":749,\"height\":218,\"caption\":\"Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA\"},\"image\":{\"@id\":\"https:\\/\\/itbaas.ac.id\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Uncategorized Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://itbaas.ac.id/category/uncategorized/",
+      "og_locale": "id_ID",
+      "og_type": "article",
+      "og_title": "Uncategorized Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "og_url": "https://itbaas.ac.id/category/uncategorized/",
+      "og_site_name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://itbaas.ac.id/category/uncategorized/",
+            "url": "https://itbaas.ac.id/category/uncategorized/",
+            "name": "Uncategorized Arsip - Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "isPartOf": {
+              "@id": "https://itbaas.ac.id/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://itbaas.ac.id/category/uncategorized/#breadcrumb"
+            },
+            "inLanguage": "id"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://itbaas.ac.id/category/uncategorized/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Beranda",
+                "item": "https://itbaas.ac.id/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Uncategorized"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://itbaas.ac.id/#website",
+            "url": "https://itbaas.ac.id/",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "description": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "publisher": {
+              "@id": "https://itbaas.ac.id/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://itbaas.ac.id/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "id"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://itbaas.ac.id/#organization",
+            "name": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA",
+            "url": "https://itbaas.ac.id/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "id",
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/",
+              "url": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "contentUrl": "https://itbaas.ac.id/wp-content/uploads/2025/07/cropped-LOGO_ITB_AAS_WEB-removebg-preview1.png",
+              "width": 749,
+              "height": 218,
+              "caption": "Kampus PTS Solo Terbaik di Solo Raya ITB AAS INDONESIA"
+            },
+            "image": {
+              "@id": "https://itbaas.ac.id/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://itbaas.ac.id/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
